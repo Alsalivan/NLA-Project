@@ -1,5 +1,4 @@
-# Projects
-NLA project
+# NLA project
 
 In this notebook we will implement recommendation system based on Slope-One and SVD algorithms
 
